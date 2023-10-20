@@ -1,4 +1,7 @@
-### Hi there 👋
+### iloveonsen's project archive 👋
+
+- Name: **Jay Hwang**
+- Interests: **Programming, Machine learning, Generative AI, MLOps, AWS**
 
 <!--
 **iloveonsen/iloveonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
